@@ -1,0 +1,16 @@
+../Core/Inc/help.c:41:6:DrawMainMenu	16	static
+../Core/Inc/help.c:62:6:DrawSubMenu	16	static
+../Core/Inc/help.c:81:6:DrawmanagerMenu	16	static
+../Core/Inc/help.c:96:6:DrawNFCMenu	16	static
+../Core/Inc/help.c:116:6:Draw_adding_NFC	16	static
+../Core/Inc/help.c:124:6:Draw_delete_NFC	16	static
+../Core/Inc/help.c:133:6:RESETPASSWORDMenu	16	static
+../Core/Inc/help.c:144:6:Draw_FINGER_Menu	16	static
+../Core/Inc/help.c:166:6:add_finger_Menu	16	static
+../Core/Inc/help.c:173:6:delete_finger_Menu	16	static
+../Core/Inc/help.c:182:6:ResetPassword	32	static
+../Core/Inc/help.c:416:6:CheckUIDAndControlLock	64	static
+../Core/Inc/help.c:487:8:adding_nfc_card	72	static
+../Core/Inc/help.c:625:8:delete_nfc_card	72	static
+../Core/Inc/help.c:767:8:delete_nfc_card_libr	64	static
+../Core/Inc/help.c:825:8:replace_manager_card	48	static
